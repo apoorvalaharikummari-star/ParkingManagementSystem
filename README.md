@@ -1,20 +1,12 @@
-"# ParkingManagementSystem"
-
 ```markdown
 
-\# ParkingManagementSystem
-
-
+&#x20;ParkingManagementSystem
 
 A Java-based Parking Management System project designed to manage vehicle entry/exit, generate QR codes for tickets, and maintain parking logs efficiently.
 
-
-
 \---
 
-
-
-\## 🚗 Features
+🚗 Features
 
 \- Vehicle entry and exit logging
 
@@ -24,13 +16,9 @@ A Java-based Parking Management System project designed to manage vehicle entry/
 
 \- Simple and extensible Java codebase
 
-
-
 \---
 
-
-
-\## 🛠 Installation
+🛠 Installation
 
 1\. Clone the repository:
 
@@ -44,13 +32,7 @@ A Java-based Parking Management System project designed to manage vehicle entry/
 
 3\. Compile and run `Main.java`.
 
-
-
-\---
-
-
-
-\## 📖 Usage
+📖 Usage
 
 \- Run the program to manage parking entries/exits.
 
@@ -58,25 +40,17 @@ A Java-based Parking Management System project designed to manage vehicle entry/
 
 \- Logs are stored in `parking\_log.txt`.
 
-
-
 \---
 
-
-
-\## 🤝 Contributing
+🤝 Contributing
 
 Pull requests are welcome!  
 
 For major changes, please open an issue first to discuss what you’d like to change.
 
-
-
 \---
 
-
-
-\## 📜 License
+📜 License
 
 This project is currently unlicensed. You may add a license (MIT, Apache, etc.) if you want others to use or contribute.
 
