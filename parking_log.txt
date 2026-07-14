@@ -1,0 +1,6 @@
+ENTRY | Vehicle: KA01AB1234 | Slot: 1 | Fee: 0 | Time: Fri Apr 10 22:18:20 IST 2026
+ENTRY | Vehicle: TN02XY4567 | Slot: 2 | Fee: 0 | Time: Fri Apr 10 22:18:39 IST 2026
+EXIT | Vehicle: KA01AB1234 | Slot: 1 | Fee: 20 | Time: Fri Apr 10 22:20:25 IST 2026
+ENTRY | Vehicle: KA01XY2345 | Slot: 1 | Fee: 0 | Time: Fri Apr 10 22:23:26 IST 2026
+ENTRY | Vehicle: TN09OP5678 | Slot: 2 | Fee: 0 | Time: Fri Apr 10 22:23:40 IST 2026
+EXIT | Vehicle: TN09OP5678 | Slot: 2 | Fee: 10 | Time: Fri Apr 10 22:24:23 IST 2026
